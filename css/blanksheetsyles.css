@@ -1,0 +1,27 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: gray;
+    font-style: italic;
+}
+.header {
+    font-size: 25px;
+    font-style: bold;
+    font-style: normal;
+}
+a {
+    font-style: normal;
+}
+.underline{
+    text-decoration: underline;
+}
+.homebg{
+    background-color: antiquewhite;
+}
+.font{
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+    font-style: bold;
+    font-style: normal;
+}
